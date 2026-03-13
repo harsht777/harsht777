@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Currently Learning
+## 🚀 What I'm Building
 
 - Amazon Web Services (AWS)
 - Docker
@@ -40,8 +40,12 @@ Version Control: Git
 Building hands-on cloud infrastructure projects and improving my knowledge of scalable distributed systems.
 
 ---
-![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsht777&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsht777&layout=compact&theme=tokyonight)
+
+![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsht777&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harsht777&theme=tokyonight)
 
 ## ⚙️ Tech Stack
 
