@@ -47,5 +47,7 @@ Building hands-on cloud infrastructure projects and improving my knowledge of sc
 ## 📫 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/harshitsaharan/
----
+
 Email: harshit777saharan@gmail.com
+---
+![GitHub Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
