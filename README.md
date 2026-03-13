@@ -1,6 +1,11 @@
-# Hi, I'm Harshit Saharan 👋
+<h1 align="center">Hi, I'm Harshit Saharan 👋</h1>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harsht777&color=blue&style=flat-square" />
+☁️ Cloud & DevOps Enthusiast • AWS Certified Cloud Practitioner • Computer Science Engineer
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=harsht777&color=blue&style=flat-square" />
 </p>
 
 ☁️ Cloud & DevOps Enthusiast  
