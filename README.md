@@ -37,7 +37,7 @@ Version Control: Git
 
 ## 📚 Current Focus
 
-Building hands-on cloud infrastructure projects and improving my knowledge of scalable distributed systems.
+Building hands-on cloud infrastructure projects and gaining my knowledge of scalable distributed systems.
 
 ---
 
