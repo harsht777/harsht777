@@ -18,6 +18,7 @@
 
 - Amazon Web Services (AWS)
 - Docker
+- GIT
 - Kubernetes
 - Terraform
 - Linux & Networking
