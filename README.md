@@ -22,6 +22,7 @@
 - Kubernetes
 - Terraform
 - Linux & Networking
+- Prometheus & grafana
 
 ---
 
