@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    ☁️ <b>Cloud & DevOps Enthusiast</b> • 🏅 <b>AWS Certified Cloud Practitioner</b> • 🎓 <b>Computer Science Engineer</b>
+    ☁️ <b>Cloud & DevOps Enthusiast</b> • 🏅 <b>AWS Certified Solutions Architect</b> • 🎓 <b>Computer Science Engineer</b>
   </p>
 
   <!-- Visitor Counter Badge -->
@@ -41,7 +41,7 @@
 - 🌐 **Portfolio:** [harsht777.github.io](https://harsht777.github.io/)
 - 🔭 **Current Focus:** Designing high-availability cloud infrastructure & mastering automated GitOps workflows.
 - 🎓 **Education:** Computer Science & Engineering.
-- 🏅 **Certifications:** AWS Certified Cloud Practitioner.
+- 🏅 **Certifications:** AWS Certified Cloud Practitioner and AWS certified Solutions Architect — Associate.
 - 💬 **Ask Me About:** AWS Cloud Architecture, Dockerization, Kubernetes Clusters, Terraform IaC, & Linux Administration.
 - 🎯 **Goal:** Building resilient, self-healing distributed systems & scalable CI/CD pipelines.
 
