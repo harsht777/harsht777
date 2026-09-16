@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Dynamic Typing Header Banner -->
-  <a href="https://github.com/harsht777">
+  <a href="https://harsht777.github.io/" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=70&lines=Hi+there!+I'm+Harshit+Saharan+%F0%9F%90%A7;Cloud+%26+DevOps+Engineer;AWS+Certified+Cloud+Practitioner;Kubernetes+%26+IaC+Enthusiast" alt="Typing SVG Header" />
   </a>
 
@@ -18,14 +18,14 @@
 
   <!-- Social Badges -->
   <p align="center">
+    <a href="https://harsht777.github.io/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    </a>
     <a href="https://www.linkedin.com/in/harshitsaharan/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:harshit777saharan@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/harsht777" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
 </div>
@@ -38,6 +38,7 @@
 🚀 DevOps Engineer driven by automation, infrastructure resilience, and cloud scale.
 ```
 
+- 🌐 **Portfolio:** [harsht777.github.io](https://harsht777.github.io/)
 - 🔭 **Current Focus:** Designing high-availability cloud infrastructure & mastering automated GitOps workflows.
 - 🎓 **Education:** Computer Science & Engineering.
 - 🏅 **Certifications:** AWS Certified Cloud Practitioner.
